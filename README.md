@@ -1,5 +1,10 @@
 ## Malavan Satkunarajah
 
+Hi, I'm a Python Developer focused on Machine Learning.I specialize in developing machine learning solutions and am passionate about helping individuals at all levels improve their data science skills
+
+👨‍💻**What I Do:**
+
+I build data-driven solutions that solve real-world problems. I also enjoy teaching and mentoring others in data science, helping them elevate their skills and knowledge
 <!--
 **malavansa/malavansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
