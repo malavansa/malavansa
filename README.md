@@ -1,5 +1,5 @@
 ## Malavan Satkunarajah
-[![Static Badge](https://img.shields.io/badge/malavansa-blue?logo=LinkedIn)](https://www.linkedin.com/in/malavansa/)  [![Static Badge](https://img.shields.io/badge/malavansa-black?logo=buymeacoffee&logoColor=black&labelColor=yellow)](https://buymeacoffee.com/malavan)
+[![Static Badge](https://img.shields.io/badge/malavansa-blue?logo=LinkedIn)](https://www.linkedin.com/in/malavansa/)  [![Static Badge](https://img.shields.io/badge/Bye_me_a_Coffee-black?logo=buymeacoffee&logoColor=black&labelColor=yellow)](https://buymeacoffee.com/malavan)
 
 Hi, I'm a Python Developer focused on Machine Learning.I specialize in developing machine learning solutions and am passionate about helping individuals at all levels improve their data science skills
 
