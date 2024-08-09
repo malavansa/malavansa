@@ -5,6 +5,13 @@ Hi, I'm a Python Developer focused on Machine Learning.I specialize in developin
 👨‍💻**What I Do:**
 
 I build data-driven solutions that solve real-world problems. I also enjoy teaching and mentoring others in data science, helping them elevate their skills and knowledge
+
+- Programming Languages:
+Python, SQL
+- Technologies:
+Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, Tkinter, PySimpleGUI, Streamlit
+- Tools:
+Jupyter, Git, PowerBI
 <!--
 **malavansa/malavansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
