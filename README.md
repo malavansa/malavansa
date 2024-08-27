@@ -15,6 +15,7 @@ Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, Tkinter, PySimpleGUI, Streamli
 Jupyter, Git, PowerBI
 
 ![Malavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=malavansa&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malavansa&layout=compact)
 
 <!--
 **malavansa/malavansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
