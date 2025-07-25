@@ -7,12 +7,12 @@ Hi, I'm a Python Developer focused on Machine Learning.I specialize in developin
 
 I build data-driven solutions that solve real-world problems. I also enjoy teaching and mentoring others in data science, helping them elevate their skills and knowledge
 
-- Programming Languages:
-Python, SQL
-- Technologies:
-Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, Tkinter, PySimpleGUI, Streamlit
-- Tools:
-Jupyter, Git, PowerBI
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,git,vscode,notion,azure,powerbi" />
+  </a>
+</p>
+
 
 <a href="https://github.com/malavansa/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=malavansa" />
